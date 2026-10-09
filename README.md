@@ -48,6 +48,18 @@ An observation of a node reported four hops away is retained for further investi
 
 Analysis Method
 
+October 9, 2026 — Phase 3 Field Testing
+
+The complete Ronin07 base radio assembly was relocated above the roofline for further RF performance testing.
+
+The original Missoula field-test route was repeated, with additional mobile and stationary observations extending to Arlee, Montana.
+
+Testing documented mesh acknowledgments, node visibility, antenna placement, and possible effects of an earlier power interruption.
+
+[Read the October 9 Phase 3 Field Study](docs/phase-3-field-study-2026-10-09.md)
+
+
+
 Original screenshots, photographs, GPS records, timestamps, and device settings will be retained as primary evidence when available.
 
 Observed results will be distinguished from estimated positions, modeled propagation, and hypotheses.
